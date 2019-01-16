@@ -13,8 +13,8 @@ pikachu.first_name = "Pikachu"
 pikachu.last_name = ""
 
 
-some_knowledge = pikachu.teach 
+candy_facts = pikachu.teach 
 
-elise.learn(some_knowledge)
+elise.learn(candy_facts)
 
 puts "Elise just learned '#{elise.knowledge}' from Pikachu.")
