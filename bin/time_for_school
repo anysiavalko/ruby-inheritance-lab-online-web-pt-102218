@@ -9,12 +9,12 @@ elise.first_name = "Elise"
 elise.last_name = "BabyHead"
 
 pikachu = Teacher.new
-pikachu.first_name = "Avi"
-avi.last_name = "Flombaum"
+pikachu.first_name = "Pikachu"
+pikachu.last_name = ""
 
 
-some_knowledge = avi.teach 
+some_knowledge = pikachu.teach 
 
-steve.learn(some_knowledge)
+elise.learn(some_knowledge)
 
-puts "Steve just learned '#{steve.knowledge}' from Avi.")
+puts "Elise just learned '#{elise.knowledge}' from Avi.")
