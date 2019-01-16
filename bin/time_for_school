@@ -17,4 +17,4 @@ some_knowledge = pikachu.teach
 
 elise.learn(some_knowledge)
 
-puts "Elise just learned '#{elise.knowledge}' from Avi.")
+puts "Elise just learned '#{elise.knowledge}' from Pikachu.")
